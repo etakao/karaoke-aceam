@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Zen_Antique, Zen_Kaku_Gothic_New } from 'next/font/google';
 import './globals.css';
 
@@ -20,6 +20,15 @@ export const metadata: Metadata = {
   icons: {
     icon: '/logo.jpg',
   },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'black-translucent',
+    title: 'Karaoke ACEAM',
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: '#c3352a',
 };
 
 export default function RootLayout({ children }: LayoutProps<'/'>) {
