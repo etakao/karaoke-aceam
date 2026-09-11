@@ -1,0 +1,1111 @@
+{
+  "singers": [
+    {
+      "numero": 1,
+      "nome_cantor": "MUTSUMI NOMURA",
+      "nome_musica": "KURODA BUSHI",
+      "cidade": "MINYO KAI",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 2,
+      "nome_cantor": "TSURUYO AKIYAMA",
+      "nome_musica": "KARIBOSHI KIRI UTA",
+      "cidade": "PACAEMBÚ",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 3,
+      "nome_cantor": "CELINA MURAKAMI",
+      "nome_musica": "ITSUKI NO KOMORI UTA",
+      "cidade": "ACEVI",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 4,
+      "nome_cantor": "YASSUKO NAKANO",
+      "nome_musica": "HIETSUKI KUZUSHI",
+      "cidade": "MINYO KAI",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 5,
+      "nome_cantor": "SATIKO AOKI",
+      "nome_musica": "SADO OKESA",
+      "cidade": "TUPÃ",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 6,
+      "nome_cantor": "YOSHIE HAGA",
+      "nome_musica": "HIETSUKI KUZUSHI",
+      "cidade": "ACEVI",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 7,
+      "nome_cantor": "ELZA FUJII MAKINO",
+      "nome_musica": "KURODA BUSHI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "MINYO"
+    },
+    {
+      "numero": 8,
+      "nome_cantor": "JOSÉ ARNALDO RODRIGUES",
+      "nome_musica": "UEO MUITE ARUKOU",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO E3+E2 CLASSE B"
+    },
+    {
+      "numero": 9,
+      "nome_cantor": "TAKASHI NISHIZUKA",
+      "nome_musica": "KITAGUNI NO HARU",
+      "cidade": "GUARARAPES",
+      "categoria": "VETERANO E3+E2 CLASSE B"
+    },
+    {
+      "numero": 10,
+      "nome_cantor": "EDUARDO AZATO",
+      "nome_musica": "MITIZURE",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO E3+E2 CLASSE B"
+    },
+    {
+      "numero": 11,
+      "nome_cantor": "SHIGUEKO HOJO",
+      "nome_musica": "FUTARI NO HARU",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO E3+E2 CLASSE B"
+    },
+    {
+      "numero": 12,
+      "nome_cantor": "PAULO OOSSUGUI",
+      "nome_musica": "SAKEYO",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 13,
+      "nome_cantor": "REGINA SUYAMA",
+      "nome_musica": "JINSEI",
+      "cidade": "ÁREA",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 14,
+      "nome_cantor": "KAZUO GOTO",
+      "nome_musica": "SHAMISEN MADOROSU",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 15,
+      "nome_cantor": "CARLOS TANAKA",
+      "nome_musica": "SAKEYO",
+      "cidade": "ÁREA",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 16,
+      "nome_cantor": "EIKO TANAKA",
+      "nome_musica": "KANASHIKI KUTIBUE",
+      "cidade": "DRACENA",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 17,
+      "nome_cantor": "CELSO MORI",
+      "nome_musica": "AMENI SAKU HANA-",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 18,
+      "nome_cantor": "EMÍLIA KUNISAWA",
+      "nome_musica": "AKASHIYA NO AMEGA YAMUTOKI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO D2+D1 CLASSE B"
+    },
+    {
+      "numero": 19,
+      "nome_cantor": "MARILDA TANAKA",
+      "nome_musica": "SAIGONO IPPON",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO C2+C1 CLASSE B"
+    },
+    {
+      "numero": 20,
+      "nome_cantor": "IVONE KURIYA",
+      "nome_musica": "NIIZUMANI SASAGUERU UTA",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO C2+C1 CLASSE B"
+    },
+    {
+      "numero": 21,
+      "nome_cantor": "TOMIE OKADO",
+      "nome_musica": "NIIZUMA NI SASAGUERU UTA",
+      "cidade": "ÁREA",
+      "categoria": "VETERANO C2+C1 CLASSE B"
+    },
+    {
+      "numero": 22,
+      "nome_cantor": "JOSÉ EDUARDO PEREIRA",
+      "nome_musica": "MY WAY",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VETERANO C2+C1 CLASSE B"
+    },
+    {
+      "numero": 23,
+      "nome_cantor": "SÍLVIO AKIYOSHI",
+      "nome_musica": "SOREWA KOI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO C2+C1 CLASSE B"
+    },
+    {
+      "numero": 24,
+      "nome_cantor": "EVELYN TAKAHAMA",
+      "nome_musica": "AIWA HANA KIMIWA SONOTAME",
+      "cidade": "ARAÇATUBA",
+      "categoria": "VETERANO A+ADULTO B CLASSE B"
+    },
+    {
+      "numero": 25,
+      "nome_cantor": "MARIELLE YUKIE UDO",
+      "nome_musica": "TSUGUNAI",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VETERANO A+ADULTO B CLASSE B"
+    },
+    {
+      "numero": 26,
+      "nome_cantor": "MARIA EDUARDA TABUSE",
+      "nome_musica": "OOSAKA SUZUME",
+      "cidade": "PACAEMBÚ",
+      "categoria": "TIBICO B"
+    },
+    {
+      "numero": 27,
+      "nome_cantor": "DAVÍ LUCAS PEREIRA",
+      "nome_musica": "MIRAI-E",
+      "cidade": "PACAEMBÚ",
+      "categoria": "TIBICO C"
+    },
+    {
+      "numero": 28,
+      "nome_cantor": "FRANCISCO SEIKI SHIRADO",
+      "nome_musica": "ONNA NO NEGAI",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO E3 CLASSE A"
+    },
+    {
+      "numero": 29,
+      "nome_cantor": "INEKO NAKAZONE",
+      "nome_musica": "YAWARA",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO E3 CLASSE A"
+    },
+    {
+      "numero": 30,
+      "nome_cantor": "SUEKO TSUZAKI",
+      "nome_musica": "DAREKA KOKYOU O OMOWAZARU",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO E3 CLASSE A"
+    },
+    {
+      "numero": 31,
+      "nome_cantor": "TSURUYO AKIYAMA",
+      "nome_musica": "YAWARA",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VETERANO E2 CLASSE A"
+    },
+    {
+      "numero": 32,
+      "nome_cantor": "SUSSUMY OOSAKO",
+      "nome_musica": "OKUHIDA BOJYOU",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO E2 CLASSE A"
+    },
+    {
+      "numero": 33,
+      "nome_cantor": "EMÍLIA MATSUMOTO",
+      "nome_musica": "KOI BANKA",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO E2 CLASSE A"
+    },
+    {
+      "numero": 34,
+      "nome_cantor": "KAZUO YASSUKI",
+      "nome_musica": "YUMEOI ZAKE",
+      "cidade": "ADAMANTINA",
+      "categoria": "VETERANO E2 CLASSE A"
+    },
+    {
+      "numero": 35,
+      "nome_cantor": "TAMIKO TANAKA",
+      "nome_musica": "DOUTOMBORI GAWA",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO E2 CLASSE A"
+    },
+    {
+      "numero": 36,
+      "nome_cantor": "MIYOKO KAKINOHANA",
+      "nome_musica": "URAMATI SAKABA",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO E2 CLASSE A"
+    },
+    {
+      "numero": 37,
+      "nome_cantor": "SHUJIRO KAI",
+      "nome_musica": "SARAI",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 38,
+      "nome_cantor": "YASSUKO NAKANO",
+      "nome_musica": "SOORAN WATARI DORI",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 39,
+      "nome_cantor": "MITSUKI TAKASE",
+      "nome_musica": "AIZEN KATSURA MOU ITIDO",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 40,
+      "nome_cantor": "FUMIE YOKOYAMA",
+      "nome_musica": "KONO YONO HANA",
+      "cidade": "ÁREA",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 41,
+      "nome_cantor": "SHIZUKO ENDO",
+      "nome_musica": "YAWARA",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 42,
+      "nome_cantor": "ELCIO TARAO SHIMABUCO",
+      "nome_musica": "TIKUMA GAWA",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 43,
+      "nome_cantor": "SHIGUEKO FUTIKAMI",
+      "nome_musica": "SHINOBU AME",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 44,
+      "nome_cantor": "PIO HIRATA",
+      "nome_musica": "OKUHIDA BOJYOU",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 45,
+      "nome_cantor": "TAMAKI NAKAMURA",
+      "nome_musica": "HITOKOI ZAKE",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 46,
+      "nome_cantor": "KENGO ISHIKAWA",
+      "nome_musica": "SOEMONCHO BLUES",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 47,
+      "nome_cantor": "FRANCISCO MURAISHI",
+      "nome_musica": "MODORI BANA",
+      "cidade": "GUAÍRA",
+      "categoria": "VETERANO E1 CLASSE A"
+    },
+    {
+      "numero": 48,
+      "nome_cantor": "CHIEKO IKEDA SAKAI",
+      "nome_musica": "SHIMA NO BURUSU",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 49,
+      "nome_cantor": "CELINA MURAKAMI",
+      "nome_musica": "NANGOKU TOSSAWO ATONISHITE",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 50,
+      "nome_cantor": "PAULO TAKEHIKO YOSHIZUMI",
+      "nome_musica": "TOMBO",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 51,
+      "nome_cantor": "YUKIKO SATO",
+      "nome_musica": "MITIZURE",
+      "cidade": "ACAD",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 52,
+      "nome_cantor": "TERUO TARUMOTO",
+      "nome_musica": "BOKU NO IMOOTONI",
+      "cidade": "ACAE KARA.",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 53,
+      "nome_cantor": "KENZO KATANO",
+      "nome_musica": "KUTSUKAKE TOKIJIROU",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 54,
+      "nome_cantor": "TAKAYUKI TAMEKUNI",
+      "nome_musica": "SASSAME YUKI",
+      "cidade": "BARRETOS",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 55,
+      "nome_cantor": "TEREZINHA ITO",
+      "nome_musica": "INOTI KURENAI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 56,
+      "nome_cantor": "JOSÉ GIRO HIGASHI",
+      "nome_musica": "OSHO",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 57,
+      "nome_cantor": "TAMIKO YONEKURA",
+      "nome_musica": "YUUZUKI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 58,
+      "nome_cantor": "MINA O. HISSAMATSU",
+      "nome_musica": "YUUZEN NAGASHI",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO D2 CLASSE A"
+    },
+    {
+      "numero": 59,
+      "nome_cantor": "YONEKO KUNIYOSHI",
+      "nome_musica": "IBIYORU",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 60,
+      "nome_cantor": "ELIZA TAKIGAWA",
+      "nome_musica": "OOSAKA SHIGURE",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 61,
+      "nome_cantor": "JORGE NISHIDA",
+      "nome_musica": "YAGUIRI NO WATASHI",
+      "cidade": "ARAÇATUBA",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 62,
+      "nome_cantor": "TOMIKO NEBUYA",
+      "nome_musica": "KAZE NI TATSU",
+      "cidade": "GUARARAPES",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 63,
+      "nome_cantor": "TEREZA ISHIKAWA HIRAI",
+      "nome_musica": "MITIZURE",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 64,
+      "nome_cantor": "TATSUO HATA",
+      "nome_musica": "HAHA KAGUE",
+      "cidade": "DRACENA",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 65,
+      "nome_cantor": "NOELY Y. YOSHIHARA",
+      "nome_musica": "HOSHI NO NAGARENI",
+      "cidade": "ÁREA",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 66,
+      "nome_cantor": "AMÉLIA TAMEKUNI",
+      "nome_musica": "SAI AI NO HITO",
+      "cidade": "BARRETOS",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 67,
+      "nome_cantor": "TOMIKO MATSUDA",
+      "nome_musica": "URAMATI SAKABA",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 68,
+      "nome_cantor": "ANTONIA MURAISHI",
+      "nome_musica": "SAKE NO YADO",
+      "cidade": "GUAÍRA",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 69,
+      "nome_cantor": "LUIZ TOSHIO HIRAI",
+      "nome_musica": "KUTINASHI NO HANA",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO D1 CLASSE A"
+    },
+    {
+      "numero": 70,
+      "nome_cantor": "ELÍSIO MASSAO KAZAMA",
+      "nome_musica": "JINSEI KAKUREMBO",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO C2 CLASSE A"
+    },
+    {
+      "numero": 71,
+      "nome_cantor": "CLARINDA TSUYAKO ASSATO",
+      "nome_musica": "II HI TABIDACHI",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO C2 CLASSE A"
+    },
+    {
+      "numero": 72,
+      "nome_cantor": "CILENE HOLSBACK",
+      "nome_musica": "LOVE IS OVER",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO C2 CLASSE A"
+    },
+    {
+      "numero": 73,
+      "nome_cantor": "TOSHIE UMEOKA",
+      "nome_musica": "NAMIDA GOI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO C2 CLASSE A"
+    },
+    {
+      "numero": 74,
+      "nome_cantor": "AURO UETI",
+      "nome_musica": "KIMIKOSSO WAGA INOTI",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO C1 CLASSE A"
+    },
+    {
+      "numero": 75,
+      "nome_cantor": "KAZUKO YOSHIHARA",
+      "nome_musica": "ANYA KOORO",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO C1 CLASSE A"
+    },
+    {
+      "numero": 76,
+      "nome_cantor": "MUTSUMI NOMURA",
+      "nome_musica": "KOSHU",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO C1 CLASSE A"
+    },
+    {
+      "numero": 77,
+      "nome_cantor": "TIEMI SATO",
+      "nome_musica": "SHOUWA SAIGO NO AKI NO KOTO",
+      "cidade": "ACAD",
+      "categoria": "VETERANO A+ADULTO A CLASSE A"
+    },
+    {
+      "numero": 78,
+      "nome_cantor": "PATRÍCIA INUMARU",
+      "nome_musica": "AITAI",
+      "cidade": "ACEO",
+      "categoria": "VETERANO A+ADULTO A CLASSE A"
+    },
+    {
+      "numero": 79,
+      "nome_cantor": "OTÁVIO PALOMO",
+      "nome_musica": "KOKORO NOKORI",
+      "cidade": "DRACENA",
+      "categoria": "VETERANO A+ADULTO A CLASSE A"
+    },
+    {
+      "numero": 80,
+      "nome_cantor": "HÉLIO YOSHIHARA",
+      "nome_musica": "GUNJYOU",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO B CLASSE A"
+    },
+    {
+      "numero": 81,
+      "nome_cantor": "HIDEKI YASUKAWATI",
+      "nome_musica": "OFUKURO SAN",
+      "cidade": "ARAÇATUBA",
+      "categoria": "VETERANO B CLASSE A"
+    },
+    {
+      "numero": 82,
+      "nome_cantor": "MIYO KAKINOHANA",
+      "nome_musica": "HATOBA SHIGURE",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO E3 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 83,
+      "nome_cantor": "KAZUKO MURAKAMI",
+      "nome_musica": "AMENI SAKU HANA",
+      "cidade": "GUARARAPES",
+      "categoria": "VETERANO E3 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 84,
+      "nome_cantor": "MARIANA KATO",
+      "nome_musica": "SUBARU",
+      "cidade": "ARAÇATUBA",
+      "categoria": "VETERANO E1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 85,
+      "nome_cantor": "JORGE UMINO",
+      "nome_musica": "OOSHOU",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO E1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 86,
+      "nome_cantor": "SHOITI SHIMODA",
+      "nome_musica": "KITA NO TABIBITO",
+      "cidade": "ADAMANTINA",
+      "categoria": "VETERANO E1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 87,
+      "nome_cantor": "TOSHIO KOUMEGAWA",
+      "nome_musica": "KAWA",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO E1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 88,
+      "nome_cantor": "SATIKO AOKI",
+      "nome_musica": "ENOSHIMA EREJI",
+      "cidade": "TUPÃ",
+      "categoria": "VETERANO E1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 89,
+      "nome_cantor": "MIDORI OBANA",
+      "nome_musica": "NAMIDA NO RENRAKUSEN",
+      "cidade": "MIRANDÓPOLIS",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 90,
+      "nome_cantor": "YOKO UETI",
+      "nome_musica": "WASSURE ENU HITO",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 91,
+      "nome_cantor": "NOBUKO KURAUTI",
+      "nome_musica": "ONNANO YUME",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 92,
+      "nome_cantor": "HELENA AOKI",
+      "nome_musica": "WAKARE NO YOKAN",
+      "cidade": "MIRANDÓPOLIS",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 93,
+      "nome_cantor": "AKIYOSHI TANIGUTI",
+      "nome_musica": "SHIAWASE SAGASHITE",
+      "cidade": "ADAMANTINA",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 94,
+      "nome_cantor": "NOBUKO SATO",
+      "nome_musica": "NAGARAGAWA ENKA",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 95,
+      "nome_cantor": "TAKANORI YDA",
+      "nome_musica": "KIMITO ITSUMADEMO",
+      "cidade": "ACEO",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 96,
+      "nome_cantor": "SATOKO OOSAKO",
+      "nome_musica": "SHANHAI GAERI NO RIRU",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 97,
+      "nome_cantor": "JULIA F. HAYASHI GONDA",
+      "nome_musica": "ONNA NO WARUTSU",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 98,
+      "nome_cantor": "YOSHIKO UEMURA",
+      "nome_musica": "YUKI TSUBAKI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO D2+D1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 99,
+      "nome_cantor": "DIRCE KIZAKI",
+      "nome_musica": "HANA TO SHITE HITO TO SHITE",
+      "cidade": "ARAÇATUBA",
+      "categoria": "VETERANO C2+C1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 100,
+      "nome_cantor": "HARUMI ITO",
+      "nome_musica": "MAKKANA TAIYO",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO C2+C1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 101,
+      "nome_cantor": "YOSHIE HAGA",
+      "nome_musica": "DOU DOU KOKKO NO UTA",
+      "cidade": "ACEVI",
+      "categoria": "VETERANO C2+C1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 102,
+      "nome_cantor": "HISSAMI SASSAKE",
+      "nome_musica": "OTOKO BUNE",
+      "cidade": "ARAÇATUBA",
+      "categoria": "VETERANO C2+C1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 103,
+      "nome_cantor": "SETSU KAKINOHANA",
+      "nome_musica": "SOEMON TYOU BLUEZ",
+      "cidade": "P. PAULISTA",
+      "categoria": "VETERANO C2+C1 CLASSE ESPECIAL"
+    },
+    {
+      "numero": 104,
+      "nome_cantor": "DANIELLE PEREIRA",
+      "nome_musica": "AIJIN",
+      "cidade": "PACAEMBÚ",
+      "categoria": "ADULTO B+VET.B CLASSE ESPECIAL"
+    },
+    {
+      "numero": 105,
+      "nome_cantor": "NILO MIYASHITA",
+      "nome_musica": "KYODAI BUNE",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO E1 CLASSE EXTRA"
+    },
+    {
+      "numero": 106,
+      "nome_cantor": "HINAKO MORIGAKI",
+      "nome_musica": "URAMATI SAKABAA",
+      "cidade": "ACAE KARA",
+      "categoria": "VETERANO E1 CLASSE EXTRA"
+    },
+    {
+      "numero": 107,
+      "nome_cantor": "GILBERTO EITI MAKIYAMA",
+      "nome_musica": "KYODAI BUNE",
+      "cidade": "OURINHOS",
+      "categoria": "VETERANO E1 CLASSE EXTRA"
+    },
+    {
+      "numero": 108,
+      "nome_cantor": "PAULINO ITIKAWA",
+      "nome_musica": "KAGUE WO SHITAITE",
+      "cidade": "ACAE KARA",
+      "categoria": "VETERANO E1 CLASSE EXTRA"
+    },
+    {
+      "numero": 109,
+      "nome_cantor": "KENZO ENDO",
+      "nome_musica": "HONEMADE AISHITE",
+      "cidade": "ACEAM",
+      "categoria": "VETERANO E1 CLASSE EXTRA"
+    },
+    {
+      "numero": 110,
+      "nome_cantor": "RYOITI SUWA",
+      "nome_musica": "YUBIWA",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 111,
+      "nome_cantor": "KAZUO HAMAMOTO",
+      "nome_musica": "OJIISAN OBAATYAN",
+      "cidade": "GUARARAPES",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 112,
+      "nome_cantor": "YUKIKO IWAYAMA",
+      "nome_musica": "HARU NO YUKI",
+      "cidade": "BASTOS",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 113,
+      "nome_cantor": "TAKESHI YOSHIGAI",
+      "nome_musica": "FURUSATO NO SHIKI WO UTAU",
+      "cidade": "MINYO KAI",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 114,
+      "nome_cantor": "KENJI NOMI",
+      "nome_musica": "NAGARA GAWA ENKA",
+      "cidade": "TUPÃ",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 115,
+      "nome_cantor": "KAZUTO NAGAE",
+      "nome_musica": "ASHITA NI MUKATTE",
+      "cidade": "ACAD",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 116,
+      "nome_cantor": "PAULO GONDA",
+      "nome_musica": "TAWARA BOSHI GUEMBA",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 117,
+      "nome_cantor": "KUNIHIRO KAWAKAMI",
+      "nome_musica": "KIMPIRA",
+      "cidade": "ACAE KARA",
+      "categoria": "VETERANO D2+D1+B CLASSE EXTRA"
+    },
+    {
+      "numero": 118,
+      "nome_cantor": "MITIKO OIZUMI",
+      "nome_musica": "NAMIDA NO SAMBASHI",
+      "cidade": "TUPÃ",
+      "categoria": "VETERANO E3+E2+E1 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 119,
+      "nome_cantor": "KENZO TARUMOTO",
+      "nome_musica": "ONNA SENDO UTA",
+      "cidade": "ACAE",
+      "categoria": "VETERANO E3+E2+E1 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 120,
+      "nome_cantor": "IZUO ABE",
+      "nome_musica": "MEIGUETSU AKAGUI YAMA",
+      "cidade": "MIRANDÓPOLIS",
+      "categoria": "VETERANO E3+E2+E1 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 121,
+      "nome_cantor": "ELZA FUJII MAKINO",
+      "nome_musica": "AIWA KAGUIRINAKU",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO D2+D1+C2 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 122,
+      "nome_cantor": "MICHIO KANEZAKI",
+      "nome_musica": "SUNA NO MICHI",
+      "cidade": "C. GRANDE",
+      "categoria": "VETERANO D2+D1+C2 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 123,
+      "nome_cantor": "MITSUE YWATA",
+      "nome_musica": "AMAGUI GOE",
+      "cidade": "ACAE KARA",
+      "categoria": "VETERANO D2+D1+C2 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 124,
+      "nome_cantor": "MITSUKO IKEDA",
+      "nome_musica": "ARU HATOBANO MONOGATARI",
+      "cidade": "PARANAVAÍ",
+      "categoria": "VETERANO D2+D1+C2 CLASSE SUPER EXTRA"
+    },
+    {
+      "numero": 125,
+      "nome_cantor": "PAULO OOSSUGUI",
+      "nome_musica": "KIMITO ITSUMADEMO",
+      "cidade": "ACEAM",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 126,
+      "nome_cantor": "TOMIKO MATSUDA",
+      "nome_musica": "J",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 127,
+      "nome_cantor": "KAZUKO YOSHIHARA",
+      "nome_musica": "MODORI GAWA",
+      "cidade": "ACEVI",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 128,
+      "nome_cantor": "EDUARDO AZATO",
+      "nome_musica": "YUME OI ZAKE",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 129,
+      "nome_cantor": "HÉLIO YOSHIHARA",
+      "nome_musica": "HUTINASHI NO HANA",
+      "cidade": "ACEVI",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 130,
+      "nome_cantor": "KENGO ISHIKAWA",
+      "nome_musica": "YUME OI ZAKE",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 131,
+      "nome_cantor": "SATIE HAGA",
+      "nome_musica": "HAHA KOI GARASU",
+      "cidade": "ÁREA",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 132,
+      "nome_cantor": "ELISA TAKIGAWA",
+      "nome_musica": "NORA",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 133,
+      "nome_cantor": "FRANCISCO SHIRADO",
+      "nome_musica": "HITOKOI SAKABA",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 134,
+      "nome_cantor": "YAEKO ENDO",
+      "nome_musica": "EIEN NI KAGAYAITE",
+      "cidade": "ÁREA",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 135,
+      "nome_cantor": "EIKO TANAKA",
+      "nome_musica": "KUTINASSHI NO HANA",
+      "cidade": "DRACENA",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 136,
+      "nome_cantor": "MAXIMINA O. HISSAMATSU",
+      "nome_musica": "URAMATI SAKABA",
+      "cidade": "ACEAM",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 137,
+      "nome_cantor": "CLARINDA TSUYAKO ASSATO",
+      "nome_musica": "MAYONAKA NO SHAWA",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 138,
+      "nome_cantor": "PIO HIRATA",
+      "nome_musica": "NAGARAGAWA ENKA",
+      "cidade": "ACEAM",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 139,
+      "nome_cantor": "CILENE HOLBACK",
+      "nome_musica": "J",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 140,
+      "nome_cantor": "JOSÉ GIRO HIGASHI",
+      "nome_musica": "MEOTO SHINJU",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 141,
+      "nome_cantor": "MÁRIO YASUJIRO HIGA",
+      "nome_musica": "MITIZURE",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE A"
+    },
+    {
+      "numero": 142,
+      "nome_cantor": "DANIELLE PEREIRA",
+      "nome_musica": "KAZE NI TATSU",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VIDEOKE CLASSE ESPECIAL"
+    },
+    {
+      "numero": 143,
+      "nome_cantor": "NOBUKO KURAUTI",
+      "nome_musica": "YUKI TSUBAKI",
+      "cidade": "ACEAM",
+      "categoria": "VIDEOKE CLASSE ESPECIAL"
+    },
+    {
+      "numero": 144,
+      "nome_cantor": "HIROMITSU UYEMA",
+      "nome_musica": "WAKATTE KUDASAI",
+      "cidade": "ACEO",
+      "categoria": "VIDEOKE CLASSE ESPECIAL"
+    },
+    {
+      "numero": 145,
+      "nome_cantor": "NILO MMIYASHITA",
+      "nome_musica": "KITA NO RYOBA",
+      "cidade": "ACEAM",
+      "categoria": "VIDEOKE CLASSE ESPECIAL"
+    },
+    {
+      "numero": 146,
+      "nome_cantor": "YOSHIE HAGA",
+      "nome_musica": "KITA NO EKI",
+      "cidade": "ACEVI",
+      "categoria": "VIDEOKE CLASSE ESPECIAL"
+    },
+    {
+      "numero": 147,
+      "nome_cantor": "MIYUKI INOUE",
+      "nome_musica": "FUYU NO TABI",
+      "cidade": "ACEAM",
+      "categoria": "VIDEOKE CLASSE ESPECIAL"
+    },
+    {
+      "numero": 148,
+      "nome_cantor": "MICHIO KANEZAKI",
+      "nome_musica": "NAMBU ZAKE",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE EXTRA"
+    },
+    {
+      "numero": 149,
+      "nome_cantor": "PAULO TADASHI GONDA",
+      "nome_musica": "HASHIBA NO WATASHI",
+      "cidade": "C. GRANDE",
+      "categoria": "VIDEOKE CLASSE EXTRA"
+    },
+    {
+      "numero": 150,
+      "nome_cantor": "RYOITI SUWA",
+      "nome_musica": "MITINOKU HITORI TABI",
+      "cidade": "PACAEMBÚ",
+      "categoria": "VIDEOKE CLASSE EXTRA"
+    },
+    {
+      "numero": 151,
+      "nome_cantor": "KENJI NOMI & MITIKO OIZUMI",
+      "nome_musica": "KIZUNA ZAKE",
+      "cidade": "TUPÃ",
+      "categoria": "DUETO ALEATÓRIA"
+    },
+    {
+      "numero": 152,
+      "nome_cantor": "EMÍLIA KUNISAWA & MARILDA TANAKA",
+      "nome_musica": "WAKARETEMO SUKINA HITO",
+      "cidade": "PARANAVAÍ",
+      "categoria": "DUETO ALEATÓRIA"
+    },
+    {
+      "numero": 153,
+      "nome_cantor": "CLARINDA ASSATO & PAULO TAKEHIKO YOSHIZUMI",
+      "nome_musica": "TOKAI NO TENSHI TACHI",
+      "cidade": "C. GRANDE",
+      "categoria": "DUETO ALEATÓRIA"
+    },
+    {
+      "numero": 154,
+      "nome_cantor": "SILVIO AKIYOSHI & TEREZINHA ITO",
+      "nome_musica": "TÔKYO NIGHT CLUB",
+      "cidade": "PARANAVAÍ",
+      "categoria": "DUETO ALEATÓRIA"
+    },
+    {
+      "numero": 155,
+      "nome_cantor": "AURO UETI & YOKO UETI",
+      "nome_musica": "WASSURERU MONKA",
+      "cidade": "ACEVI",
+      "categoria": "DUETO MARIDO E ESPOSA"
+    },
+    {
+      "numero": 156,
+      "nome_cantor": "TAKAYUKI TAMEKUNI & AMÉLIA TAMEKUNI",
+      "nome_musica": "NANIWA KOI SHIGURE",
+      "cidade": "BARRETOS",
+      "categoria": "DUETO MARIDO E ESPOSA"
+    },
+    {
+      "numero": 157,
+      "nome_cantor": "JÚLIA FUMIKO GONDA & PAULO TADDASHI GONDA",
+      "nome_musica": "NANIWA KOI SHIGURE",
+      "cidade": "C. GRANDE",
+      "categoria": "DUETO MARIDO E ESPOSA"
+    },
+    {
+      "numero": 158,
+      "nome_cantor": "FRANCISCO MURAISHI & ANTONIA MURAISHI",
+      "nome_musica": "YUUHI NO OKA",
+      "cidade": "GUAÍRA",
+      "categoria": "DUETO MARIDO E ESPOSA"
+    }
+  ],
+  "currentNumber": 156
+}
