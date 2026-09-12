@@ -4,6 +4,7 @@ import { useEffect, useRef } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useScheduleStream } from '@/lib/useScheduleStream';
 import type { ScheduleState } from '@/lib/store';
+import AdSlideshow from './AdSlideshow';
 
 export default function HomeView({
   initialState,
@@ -43,15 +44,28 @@ export default function HomeView({
             className='hero tv-hero'
             aria-live='polite'
           >
-            <span className='kicker-label tv-hero-kicker'>
-              <span
-                className='live-dot'
-                aria-hidden='true'
-              />
-              Cantando agora
-            </span>
+            {state.intervalMode ? (
+              <>
+                <span className='kicker-label tv-hero-kicker tv-hero-kicker-interval'>
+                  <span
+                    className='live-dot'
+                    aria-hidden='true'
+                  />
+                  Intervalo
+                </span>
+                <AdSlideshow />
+              </>
+            ) : (
+              <span className='kicker-label tv-hero-kicker'>
+                <span
+                  className='live-dot'
+                  aria-hidden='true'
+                />
+                Cantando agora
+              </span>
+            )}
             <AnimatePresence mode='wait'>
-              {current ? (
+              {state.intervalMode ? null : current ? (
                 <motion.div
                   key={current.numero}
                   initial={{ opacity: 0, y: 14 }}

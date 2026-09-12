@@ -14,6 +14,7 @@ export type Singer = {
 export type ScheduleState = {
   singers: Singer[];
   currentNumber: number | null;
+  intervalMode: boolean;
 };
 
 const DATA_DIR = path.join(process.cwd(), 'data');
@@ -25,6 +26,7 @@ const SEED: ScheduleState = {
     ? (seedRaw as Singer[])
     : (seedRaw as ScheduleState).singers,
   currentNumber: null,
+  intervalMode: false,
 };
 
 type Global = typeof globalThis & {
@@ -38,8 +40,10 @@ function readFromDisk(): ScheduleState {
   try {
     const raw = fs.readFileSync(DATA_FILE, 'utf-8');
     const parsed = JSON.parse(raw);
-    if (Array.isArray(parsed)) return { singers: parsed, currentNumber: null };
-    if (parsed && Array.isArray(parsed.singers)) return parsed;
+    if (Array.isArray(parsed))
+      return { singers: parsed, currentNumber: null, intervalMode: false };
+    if (parsed && Array.isArray(parsed.singers))
+      return { intervalMode: false, ...parsed };
   } catch {
     // no file yet, fall through to seed
   }
@@ -75,6 +79,7 @@ export function getState(): ScheduleState {
   return {
     singers: [...state.singers].sort((a, b) => a.numero - b.numero),
     currentNumber: state.currentNumber,
+    intervalMode: state.intervalMode,
   };
 }
 
@@ -139,6 +144,12 @@ export function setCurrent(numero: number | null) {
     return getState();
   }
   state.currentNumber = numero;
+  persistAndNotify();
+  return getState();
+}
+
+export function setIntervalMode(on: boolean) {
+  state.intervalMode = on;
   persistAndNotify();
   return getState();
 }

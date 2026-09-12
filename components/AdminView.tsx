@@ -144,6 +144,14 @@ export default function AdminView({
     await fetch(`/api/singers/${numero}`, { method: 'DELETE' });
   }
 
+  async function handleToggleIntervalMode() {
+    await fetch('/api/interval', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ on: !state.intervalMode }),
+    });
+  }
+
   return (
     <div className='app'>
       <header className='topbar'>
@@ -169,6 +177,26 @@ export default function AdminView({
       <div className='brush' />
 
       <main id='adminView'>
+        <div className='admin-section'>
+          <div className='interval-switch'>
+            <div>
+              <span className='interval-switch-label'>Modo intervalo</span>
+              <p className='interval-switch-hint'>
+                Exibe propagandas em loop no lugar do cantor atual.
+              </p>
+            </div>
+            <button
+              type='button'
+              className={`switch${state.intervalMode ? ' on' : ''}`}
+              role='switch'
+              aria-checked={state.intervalMode}
+              onClick={handleToggleIntervalMode}
+            >
+              <span className='switch-knob' />
+            </button>
+          </div>
+        </div>
+
         <div className='admin-section'>
           <div
             className='upload-box'
@@ -315,9 +343,20 @@ export default function AdminView({
                       <span className='admin-row-name'>{s.nome_cantor}</span>
                     </div>
                     <div className='admin-row-meta'>
-                      <span>{s.nome_musica}</span>
-                      <span>{s.categoria}</span>
-                      {s.cidade ? <span>{s.cidade}</span> : null}
+                      <span>
+                        <span className='admin-meta-label'>Música: </span>
+                        {s.nome_musica}
+                      </span>
+                      <span>
+                        <span className='admin-meta-label'>Categoria: </span>
+                        {s.categoria}
+                      </span>
+                      {s.cidade ? (
+                        <span>
+                          <span className='admin-meta-label'>Cidade: </span>
+                          {s.cidade}
+                        </span>
+                      ) : null}
                     </div>
                   </div>
                   <div className='admin-row-actions'>

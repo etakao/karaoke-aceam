@@ -376,11 +376,35 @@ textarea {
   position: absolute;
   top: 1.6rem;
   left: 1.6rem;
+  z-index: 2;
+}
+
+.tv-hero-kicker-interval {
+  background: var(--panel);
+  border: 1px solid var(--panel-line);
+  border-radius: 999px;
+  padding: 0.5rem 1.1rem;
 }
 
 .tv-hero > div {
   width: auto;
   flex: none;
+}
+
+.tv-ads {
+  position: absolute;
+  inset: 0;
+  background: var(--panel);
+  z-index: 1;
+}
+
+.tv-ads-slide {
+  position: absolute;
+  inset: 0;
+}
+
+.tv-ads-image {
+  object-fit: contain;
 }
 
 .tv-hero .tv-hero-content {
@@ -481,6 +505,57 @@ textarea {
 /* ---------- admin ---------- */
 #adminView {
   padding: 0 1.2rem;
+}
+
+.interval-switch {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  background: var(--panel);
+  border: 1px solid var(--panel-line);
+  border-radius: 14px;
+  padding: 0.9rem 1.1rem;
+}
+
+.interval-switch-label {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.interval-switch-hint {
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin-top: 0.15rem;
+}
+
+.switch {
+  flex: none;
+  width: 3rem;
+  height: 1.7rem;
+  border-radius: 999px;
+  background: var(--line);
+  border: none;
+  position: relative;
+  padding: 0.2rem;
+  transition: background 0.2s ease;
+}
+
+.switch.on {
+  background: var(--red);
+}
+
+.switch-knob {
+  display: block;
+  width: 1.3rem;
+  height: 1.3rem;
+  border-radius: 50%;
+  background: var(--panel);
+  transition: transform 0.2s ease;
+}
+
+.switch.on .switch-knob {
+  transform: translateX(1.3rem);
 }
 
 .admin-section {
@@ -690,6 +765,11 @@ textarea {
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
+}
+
+.admin-meta-label {
+  font-weight: 700;
+  color: var(--ink-faint);
 }
 
 .admin-row-actions {

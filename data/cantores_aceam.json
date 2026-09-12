@@ -1,4 +1,5 @@
 {
+  "intervalMode": false,
   "singers": [
     {
       "numero": 1,
@@ -1107,5 +1108,5 @@
       "categoria": "DUETO MARIDO E ESPOSA"
     }
   ],
-  "currentNumber": 156
+  "currentNumber": 1
 }
